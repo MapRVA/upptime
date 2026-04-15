@@ -10,6 +10,8 @@ sites:
     url: https://yesterdays.maprva.org
   - name: overpass
     url: 'https://overpass.maprva.org/api/interpreter?data=node(1);out;'
+  - name: Tasking Manager
+    url: https://tasks.maprva.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
