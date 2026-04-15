@@ -1,3 +1,4 @@
+
 # Change these first
 owner: MapRVA # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
@@ -13,8 +14,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: maprva.github.io
-  baseUrl: /upptime
+  cname: maprva.github.io
+  #baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
