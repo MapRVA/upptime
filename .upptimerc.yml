@@ -18,12 +18,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.maprva.org
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: MapRVA Systems Status
-  navbar:
-    - title: maprva.org
-      href: https://maprva.org
-    - title: GitHub
-      href: https://github.com/$OWNER
+  name: MapRVA Status
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
