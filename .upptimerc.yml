@@ -12,6 +12,8 @@ sites:
     url: 'https://overpass.maprva.org/api/interpreter?data=node(1);out;'
   - name: Tasking Manager
     url: https://tasks.maprva.org/
+  - name: CSO Proxy
+    url: https://cso.maprva.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
