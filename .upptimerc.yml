@@ -21,6 +21,9 @@ status-website:
   cname: status.maprva.org
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: MapRVA Status
+commitMessages:
+  commitAuthorName: "maprva-bot"
+  commitAuthorEmail: "mappingrva+ghbot@gmail.com"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
