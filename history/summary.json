@@ -22,19 +22,20 @@
     "url": "https://yesterdays.maprva.org",
     "icon": "https://icons.duckduckgo.com/ip3/yesterdays.maprva.org.ico",
     "slug": "yesterdays",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.85%",
-    "time": 363,
-    "timeDay": 287,
-    "timeWeek": 551,
-    "timeMonth": 479,
-    "timeYear": 363,
+    "time": 360,
+    "timeDay": 165,
+    "timeWeek": 488,
+    "timeMonth": 467,
+    "timeYear": 360,
     "dailyMinutesDown": {
-      "2026-07-02": 198
+      "2026-07-02": 198,
+      "2026-07-17": 1
     }
   },
   {
@@ -42,19 +43,20 @@
     "url": "https://overpass.maprva.org/api/interpreter?data=node(1);out;",
     "icon": "https://icons.duckduckgo.com/ip3/overpass.maprva.org.ico",
     "slug": "overpass",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "99.51%",
-    "time": 712,
-    "timeDay": 175,
-    "timeWeek": 296,
-    "timeMonth": 1440,
-    "timeYear": 712,
+    "time": 705,
+    "timeDay": 109,
+    "timeWeek": 264,
+    "timeMonth": 1401,
+    "timeYear": 705,
     "dailyMinutesDown": {
-      "2026-07-04": 658
+      "2026-07-04": 658,
+      "2026-07-17": 1
     }
   },
   {
@@ -62,35 +64,39 @@
     "url": "https://tasks.maprva.org/",
     "icon": "https://icons.duckduckgo.com/ip3/tasks.maprva.org.ico",
     "slug": "tasking-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 716,
-    "timeDay": 64,
-    "timeWeek": 205,
-    "timeMonth": 1479,
-    "timeYear": 716,
-    "dailyMinutesDown": {}
+    "time": 709,
+    "timeDay": 51,
+    "timeWeek": 184,
+    "timeMonth": 1437,
+    "timeYear": 709,
+    "dailyMinutesDown": {
+      "2026-07-17": 0
+    }
   },
   {
     "name": "CSO Proxy",
     "url": "https://cso.maprva.org/",
     "icon": "https://icons.duckduckgo.com/ip3/cso.maprva.org.ico",
     "slug": "cso-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 868,
-    "timeWeek": 700,
-    "timeMonth": 488,
-    "timeYear": 488,
-    "dailyMinutesDown": {}
+    "time": 476,
+    "timeDay": 459,
+    "timeWeek": 619,
+    "timeMonth": 476,
+    "timeYear": 476,
+    "dailyMinutesDown": {
+      "2026-07-17": 0
+    }
   }
 ]
