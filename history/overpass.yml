@@ -1,7 +1,7 @@
 url: https://overpass.maprva.org/api/interpreter?data=node(1);out;
-status: down
-code: 530
-responseTime: 24
-lastUpdated: 2026-07-24T07:11:18.034Z
+status: up
+code: 200
+responseTime: 286
+lastUpdated: 2026-07-24T09:35:28.445Z
 startTime: 2026-04-14T23:50:42.104Z
 generator: Upptime <https://github.com/upptime/upptime>
